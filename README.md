@@ -6,7 +6,7 @@ Borogove is a python script for sniff Facebook chat traffic over the network.
 It uses the pypcap module and supports Man-In-The-Middle ARP poisoning attacks.
 
 
-**[Latest version](http://borogove.googlecode.com/svn/trunk/borogove.py)**
+**[Latest version](https://github.com/BackupGGCode/borogove/blob/master/borogove.py)**
 
 # Requirements #
 
@@ -14,9 +14,9 @@ It uses the pypcap module and supports Man-In-The-Middle ARP poisoning attacks.
 
 **[arpspoof](http://www.monkey.org/~dugsong/dsniff/) (dsniff suite)**
 
-**[dpkt](http://code.google.com/p/dpkt/)**
+**[dpkt](https://github.com/BackupGGCode/dpkt)**
 
-**[pypcap](http://code.google.com/p/pypcap/)**
+**[pypcap](https://github.com/BackupGGCode/pypcap)**
 
 
 # Installation #
